@@ -1,0 +1,6 @@
+../Core/Src/test_sensor.c:13:6:Pressure_Test	1
+../Core/Src/test_sensor.c:30:6:Humidity_Test	1
+../Core/Src/test_sensor.c:50:6:Temperature_Test	1
+../Core/Src/test_sensor.c:78:6:Accelero_Test	1
+../Core/Src/test_sensor.c:89:6:Gyro_Test	1
+../Core/Src/test_sensor.c:101:6:Magneto_Test	1

@@ -1,0 +1,2 @@
+../Core/Src/led.c:9:6:Led_init	12	static
+../Core/Src/led.c:18:6:Led_toggle	0	static

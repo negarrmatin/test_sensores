@@ -1,0 +1,2 @@
+../Core/Src/stm32l475e_iot01_tsensor.c:6:10:BSP_TSENSOR_Init	1
+../Core/Src/stm32l475e_iot01_tsensor.c:28:7:BSP_TSENSOR_ReadTemp	1

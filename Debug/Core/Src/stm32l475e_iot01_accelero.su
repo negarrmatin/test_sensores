@@ -1,0 +1,4 @@
+../Core/Src/stm32l475e_iot01_accelero.c:6:24:BSP_ACCELERO_Init	8	static
+../Core/Src/stm32l475e_iot01_accelero.c:47:6:BSP_ACCELERO_DeInit	8	static
+../Core/Src/stm32l475e_iot01_accelero.c:60:6:BSP_ACCELERO_LowPower	8	static
+../Core/Src/stm32l475e_iot01_accelero.c:72:6:BSP_ACCELERO_AccGetXYZ	8	static
